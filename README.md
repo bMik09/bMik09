@@ -1,7 +1,6 @@
 Hi there 👋
 # 💫 About Me:
-I am Bhaumik Tyagi.<br>I have done M.Tech in CSE.<br>I am currently working as a Jr. Research Scientist and Subject Matter Expert. <br>I am open to collaborate on Quantum Computing, AI/ML/DL/, MERN,Ruby, Blockchain. <br>🎸 Outside the world of tech, I uplift myself to learn new skills. My hobbies range from singing, music composition, guitar, boxing, and cricket(Right Arm Medium Fast Bowler).<br>📚 I also love reading books on fiction/non-ficton & also writing is one of my hidden passsion.
-
+I am Bhaumik Tyagi.<br> I am currently working as an AI Researcher and serving as CTO at RHHITESPIN.<br>I am open to collaborate on AI, Neural Networks, and Quantum Machine Learning.<br>🎹 Outside the world of tech, I uplift myself to learn new skills. My hobbies range from singing, music composition, piano, boxing, and cricket.<br>📚 I love reading books and I'm also a writer and a poet.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhaumik-tyagi-21302a217/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://tyagi-bhaumik.medium.com/) 
 
